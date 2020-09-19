@@ -7,19 +7,19 @@
 #### TIL 레포 생성 
 
 
-## 9월 16일
+## 9월 17일
 
 #### cs231n-2017 14강 Generative model 
 #### bike rebalancing 회의 - modeling(ing)
 
 ### 새벽 강의 듣기+  limit 정하자
 
-## 9월 17일
+## 9월 18일
 
 #### 확률론 MLE 전까지
 #### 객체지향프로그래밍 3강 + 과제
 
-## 9월 18일
+## 9월 19일
 
 #### bike rebalancing 회의 
   - 설명가능한 MODEL 구축 통해 INSIGHT 찾고 난 후 RMSE 기준 최대한 성능 끌어 올리기
