@@ -45,6 +45,9 @@
 #### 선형대수 강의정리
 #### VAE 정리
 
+## 9월 24일
+
+#### bike rebalancing - modeling
 
 ### Todo List
 - VAE부터 cs231n 정리 필요
